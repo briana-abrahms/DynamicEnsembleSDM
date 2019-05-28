@@ -1,7 +1,6 @@
 #' Code to fit Generalized Additive Mixed Models (GAMMs) and Boosted Regression Trees (BRTs)
 #' for blue whale habitat suitability from Abrahms et al. 2019, Diversity and Distributions.
 #' This file can be used as source code to feed into the model_evaluation.R script.
-#' Written by Briana Abrahms, 2019.
 #' 
 #' Workflow:
 #' 0. Setup: load libraries
