@@ -1,6 +1,5 @@
 #' Script to calculate Area Under the receiver operator Curve (AUC) and True Skill Statistic (TSS) metrics for
 #' GAMM, BRT and Ensemble models, from Abrahms et al. 2019, Diversity and Distributions.
-#' Written by Briana Abrahms, Stephanie Brodie, and Heather Welch, 2019.
 #'
 #' Workflow:
 #' 0. Setup: load libraries, assign global objects and filepaths
